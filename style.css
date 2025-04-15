@@ -9,7 +9,7 @@ body {
     width: 300px;
     margin: 100px auto;
     padding: 30px;
-    background: blue;
+    background: lightcoral;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
@@ -21,18 +21,18 @@ input, button {
 }
 
 button {
-    background: #5cb85c;
+    background: lightgray;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background: #4cae4c;
+    background: blanchedalmond;
 }
 
 .site-header {
-    background-color: #004080;
+    background-color: lightsalmon;
     color: white;
     padding: 20px;
     text-align: center;
